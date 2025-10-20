@@ -27,5 +27,5 @@ git clone https://github.com/<your‑username>/<repo>.git
 cd <repo>
 
 # Open with Jupyter (or Colab/VS Code)
-jupyter notebook python_assignment_01.ipynb
+jupyter notebook Kim_Emmanuel_Project_3.ipynb
 No extra packages are required.

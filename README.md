@@ -1,15 +1,15 @@
 # Python Assignment 1 – Solutions
 
-A single Jupyter notebook (`Kim_Emmanuel_project_3.ipynb`) that implements all required tasks in the Python 1 assignment.
+A single Jupyter notebook (`Kim_Emmanuel_Project_3.ipynb`) that implements all required tasks in the Python 1 assignment.
 
 ## Repository layout
-├─ README.md ← this file └─ Kim_Emmanuel_project_3.ipynb
+├─ README.md ← this file └─ Kim_Emmanuel_Project_3.ipynb
 
 
 ## Notebook sections
 | # | Topic | Goal |
 |---|-------|------|
-| 0 | Data types & copying | List mutable/immutable objects; explain assignment vs. shallow vs. deep copy |
+| 0 | Data types & copying short-form answers |
 | 1 | String extraction | Use `find`/`rfind`, slice the number, convert to `float` |
 | 2 | Conditionals | Translate MATLAB `switch` to Python `if‑elif‑else` |
 | 3 | Factorial (while) | Compute `n!` for a positive integer |

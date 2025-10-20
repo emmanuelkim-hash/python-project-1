@@ -30,14 +30,3 @@ cd <repo>
 # Open with Jupyter (or Colab/VS Code)
 jupyter notebook python_assignment_01.ipynb
 No extra packages are required.
-
-Submission checklist
-All cells execute without error.
-Written answers (mutable/immutable objects, copy types) are filled in.
-Your name(s) and any collaborators are listed in the notebook header.
-Commit with a clear message (Add completed Assignment 1).
-Push to GitHub and paste the repo URL into Brightspace.
-License
-None - just a class project
-
-Happy coding!
